@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**IzharSalvanaSyed/IzharSalvanaSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
  - Networking with other technology, IT, and cybersecurity professionals when I can
  - Transitioning as a Professor at Robert Morris University
@@ -23,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
