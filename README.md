@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
- - - Networking with other technology, IT, and cybersecurity professionals when I can
+   - Networking with other technology, IT, and cybersecurity professionals when I can
    - Transitioning as a Professor at Robert Morris University
    - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
    - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises
