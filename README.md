@@ -4,7 +4,8 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 [![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3c2cad44-dde5-49df-a748-b00abd854c16)](https://www.credly.com/badges/d48b377b-2e11-44a8-b269-675c23261204/linked_in_profile)
 
 ### Tools used for Cyber Security
-
+| Tools | center | Projects |
+| ----- | ------ | -------- |
 | NIST  [![NIST](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e0180651-52a7-417f-97e6-946085f59c48)](https://www.nist.gov/) | 
 |OSINT   |----------|----------|----------|
 | WireShark   |
