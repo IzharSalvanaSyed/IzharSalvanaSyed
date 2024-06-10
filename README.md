@@ -3,24 +3,8 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 
 [![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3c2cad44-dde5-49df-a748-b00abd854c16)](https://www.credly.com/badges/d48b377b-2e11-44a8-b269-675c23261204/linked_in_profile)
 
+### Tools used for Cyber Security
 
-
-- 🔭 I’m currently working on ...
-   - Networking with other technology, IT, and cybersecurity professionals when I can
-   - Transitioning as a Professor at Robert Morris University
-   - Finding my niche in the IT and Cybersecurity field through self learning and hands-on exploration.
-   - Upskilling on learning and training platforms such as TryHackMe by doing Cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises
-  
-- 🌱 I’m currently learning ...
-   - Malware analysis
-   - Threat hunting
-   - Cybersecurity and IT automation uses with Python
-   - The security testing and assessment domain of cybersecurity
-   - Digital Forensics and Incident Response  
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| NIST | OSINT | WireShark | NMAP | CLI |
+|----------|----------|----------|----------|----------|
+|[![NIST](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/f5d6a2b7-a92e-4184-9958-5962e309b0d9)](https://www.nist.gov/)| [![OSINT](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/4ad455b1-614e-4145-9e3f-c772dd9029bc)](https://osintframework.com/)|[![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b41cb08a-9d3d-4dba-8af2-01c812432b39)](https://www.wireshark.org/)|[![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3c99470e-ee82-47a9-9452-a3c76c32a37d)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/568c92d0-e294-4181-91c3-9279b93d40ec)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|
