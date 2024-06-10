@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Izhar Syed
 I am a Passionate and proactive cybersecurity professional with CompTIA Security+ certification. Fueled by the commitment to safeguarding digital landscapes, I chose cybersecurity to actively contribute to creating secure solutions. With over three years of project coordination experience, I excel in problem-solving and adaptability. A dedicated communicator, I build partnerships effectively. Actively expanding my cybersecurity skillset and open to new opportunities in the field. Let's connect and discuss how I can contribute to your organization's security goals!
 
+![CompTIA_Security_2Bce](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e18436e8-65de-4282-8dcb-f0e395634dd1)
+
+
 - 🔭 I’m currently working on ...
    - Networking with other technology, IT, and cybersecurity professionals when I can
    - Transitioning as a Professor at Robert Morris University
