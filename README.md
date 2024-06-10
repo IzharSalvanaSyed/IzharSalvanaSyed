@@ -14,6 +14,11 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 | ----- | ------ | -------- |-------- |
 | [![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/96fb11c5-0953-43f3-b869-3646c856ef70)](https://www.wireshark.org/) | [![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/bd67e691-8e66-410c-b715-48a46f30f2dc)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/9520e401-bb4c-485f-8820-43d94de56692)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|[![autonomy-opensource-white-e1694112030907-1536x468](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/1d8f7fca-b22c-4719-ba6b-383b480cabe4)](https://autonomylogic.com/)|
 
+### OS
+| Linux | Ubuntu | Kali | Windows | Unraid | Proxmox |
+| ----- | ------ | -------- | -------- | -------- | -------- |
+| [![4804707-middle](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3a4ef44c-829e-45cd-b17f-de292757439e)](https://www.linux.org/) | [![2918746-middle](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/267288cc-be39-42ab-8fa6-6c51c30773ee)](https://ubuntu.com/) | [![689836-middle](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/39708255-93c8-4bb6-bd87-24c8c66d556b)](https://www.microsoft.com/en-us/) | [![images](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/78b5fc18-2492-480b-8f5d-eb866309211a)](https://unraid.net/) | [![7475816-middle](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/cda63aa1-3d25-49d3-ba06-aab0239fbe6e)](https://www.proxmox.com/en/) |
+
 ## Projects
 NIST  
 https://github.com/IzharSalvanaSyed/Botium-Toys-Security-Audit  
