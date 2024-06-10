@@ -16,7 +16,7 @@ https://github.com/IzharSalvanaSyed/NIST-Cybersecurity-Framework-Respond
 
 OSINT  
 -------
-WireShark and NMAP
+WireShark and NMAP  
 https://github.com/IzharSalvanaSyed/Analyze-Network-Attacks  
 https://github.com/IzharSalvanaSyed/Analyze-Network-Layer-Communication  
 
