@@ -1,17 +1,6 @@
 ### Hi there 👋 I am Izhar Syed
 I am a Passionate and proactive cybersecurity professional with CompTIA Security+ certification. Fueled by the commitment to safeguarding digital landscapes, I chose cybersecurity to actively contribute to creating secure solutions. With over three years of project coordination experience, I excel in problem-solving and adaptability. A dedicated communicator, I build partnerships effectively. Actively expanding my cybersecurity skillset and open to new opportunities in the field. Let's connect and discuss how I can contribute to your organization's security goals!
 
-### Working on
-- Updating this README to be more engaging
-- Creating a HomeLab
-- Explore using Kali Linux to attack a host within my Homelab
-- Creating a SCADA environment and attacking it
-
-#### Passion Projects
-- Batocera
-- Home network upgrade
-- Creating Vlans and segregating my home network devices
-
 ### Socials
 [![linkedin](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/2876ea8f-525c-4f8b-b625-c16d501a409e)](https://www.linkedin.com/in/izharsyed) [![Instagram_icon](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/c0ddf731-8980-4862-aa9e-678aca59484d)](https://www.instagram.com/izhart/)
 
@@ -47,3 +36,13 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 | ----- | ------ | -------- | -------- | -------- | -------- |
 | [![Linux](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/85482d9a-e1e0-424f-9dc2-a7af80aa272a)](https://www.linux.org/) | [![Ubunutu](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e0b06acb-ae5e-4687-9891-b8ac9307be28)](https://ubuntu.com/) | [![kali](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/83f38e81-6909-43f9-9dee-bb018f3c6d94)](https://www.kali.org/) | [![windows](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0c326456-45a2-4321-856e-199a6d51cbdf)](https://www.microsoft.com/en-us/) | [![unraid](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b4875315-f101-47b7-b1b9-517fed0d4f7d)](https://unraid.net/) | [![proxmox](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0b0d1456-52c0-4358-9f1f-684dda6e3396)](https://www.proxmox.com/en/) |
 
+### Working on
+- Updating this README to be more engaging
+- Creating a HomeLab
+- Explore using Kali Linux to attack a host within my Homelab
+- Creating a SCADA environment and attacking it
+
+#### Passion Projects
+- Batocera
+- Home network upgrade
+- Creating Vlans and segregating my home network devices
