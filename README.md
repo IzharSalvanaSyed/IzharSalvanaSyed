@@ -15,20 +15,20 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 | ----- | ------ | -------- | -------- |
 [![NIST](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/56f969d9-4e00-4d40-b1e8-3c80b51135f4)](https://www.nist.gov/)| [![OSINT](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/ad9f28f6-bcba-45b6-b518-f6957102ce44)](https://osintframework.com/) | [![MITRE](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e19b9ea8-2b31-48ca-81b2-3cd5dd5447bf)](https://attack.mitre.org/) | [![PCI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/01692530-7032-4ce8-a773-6a7ee58c475e)](https://www.pcisecuritystandards.org/)
 
-[Botium Toys Security Audit](https://github.com/IzharSalvanaSyed/Botium-Toys-Security-Audit)  
-[NIST Cybersecurity Framework Respond](https://github.com/IzharSalvanaSyed/NIST-Cybersecurity-Framework-Respond)  
+- [Botium Toys Security Audit](https://github.com/IzharSalvanaSyed/Botium-Toys-Security-Audit)  
+- [NIST Cybersecurity Framework Respond](https://github.com/IzharSalvanaSyed/NIST-Cybersecurity-Framework-Respond)  
 
 ### Cyber Security Tools
 | WireShark | NMAP | CLI | OpenPLC/Autonomy |
 | ----- | ------ | -------- |-------- |
 | [![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/a94164f7-21e5-485c-a3f3-66f3442748e0)](https://www.wireshark.org/) | [![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/72fe0a19-cc1c-4881-bdfe-ae40d4018c5c)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b67fcd8b-3d92-4e58-a433-84a522d856c5)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|[![OpenPLC](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/fd5e39f8-3ec4-4a6a-88db-e9ec7bbcf7d5)](https://autonomylogic.com/)|
 
-[Analyze Network Layer Communication](https://github.com/IzharSalvanaSyed/Analyze-Network-Layer-Communication)  
-[Analyze Network Attacks](https://github.com/IzharSalvanaSyed/Analyze-Network-Attacks)  
-[Get help in the command line](https://github.com/IzharSalvanaSyed/Get-help-in-the-command-line)  
-[Responsible use of sudo](https://github.com/IzharSalvanaSyed/Responsible-use-of-sudo)  
-[Use Linux commands to manage file permissions](https://github.com/IzharSalvanaSyed/Use-Linux-commands-to-manage-file-permissions)  
-[Raspberry Pi OpenPLC with Modbus](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus)  
+- [Analyze Network Layer Communication](https://github.com/IzharSalvanaSyed/Analyze-Network-Layer-Communication)  
+- [Analyze Network Attacks](https://github.com/IzharSalvanaSyed/Analyze-Network-Attacks)  
+- [Get help in the command line](https://github.com/IzharSalvanaSyed/Get-help-in-the-command-line)  
+- [Responsible use of sudo](https://github.com/IzharSalvanaSyed/Responsible-use-of-sudo)  
+- [Use Linux commands to manage file permissions](https://github.com/IzharSalvanaSyed/Use-Linux-commands-to-manage-file-permissions)  
+- [Raspberry Pi OpenPLC with Modbus](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus)  
 
 
 ### OS
