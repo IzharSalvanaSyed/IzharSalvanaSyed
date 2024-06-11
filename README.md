@@ -7,7 +7,7 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 ### Socials
 [![linkedin](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/2876ea8f-525c-4f8b-b625-c16d501a409e)](https://www.linkedin.com/in/izharsyed) [![Instagram_icon](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/c0ddf731-8980-4862-aa9e-678aca59484d)](https://www.instagram.com/izhart/)
 
-## Below are some tools and projects that I have done
+## Below are some projects that I have done
 
 ### Cyber Security Frameworks
 | NIST | OSINT | MITRE ATT&CK | PCIDDS |
