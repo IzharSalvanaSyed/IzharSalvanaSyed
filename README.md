@@ -5,7 +5,7 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 ![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/5b955b06-44d2-4037-a53a-bb378a3aa8b3)
 
 ### Certifications
-[![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3c2cad44-dde5-49df-a748-b00abd854c16)](https://www.credly.com/badges/d48b377b-2e11-44a8-b269-675c23261204/linked_in_profile)
+[![Comptia](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/cddbfc54-2e6d-4638-acf1-089b2fa76dd7)](https://www.credly.com/badges/d48b377b-2e11-44a8-b269-675c23261204/linked_in_profile)
 
 
 
@@ -13,17 +13,17 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 ### Cyber Security Frameworks
 | NIST | OSINT | MITRE ATT&CK | PCIDDS |
 | ----- | ------ | -------- | -------- |
-[![NIST](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e0180651-52a7-417f-97e6-946085f59c48)](https://www.nist.gov/)| [![OSINT1](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/92f5ee9a-7c8c-4bbb-a575-a7a32b8c749a)](https://osintframework.com/) | [![MITRE](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/bc8522b9-fe18-45e2-b73c-c175bff8ced3)](https://attack.mitre.org/) | [![pcidss](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/1f400074-b48b-4c11-a46e-aa64566f95a9)](https://www.pcisecuritystandards.org/)
+[![NIST](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/56f969d9-4e00-4d40-b1e8-3c80b51135f4)](https://www.nist.gov/)| [![OSINT](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/ad9f28f6-bcba-45b6-b518-f6957102ce44)](https://osintframework.com/) | [![MITRE](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e19b9ea8-2b31-48ca-81b2-3cd5dd5447bf)](https://attack.mitre.org/) | [![PCI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/01692530-7032-4ce8-a773-6a7ee58c475e)](https://www.pcisecuritystandards.org/)
 
 ### Cyber Security Tools
 | WireShark | NMAP | CLI | OpenPLC/Autonomy |
 | ----- | ------ | -------- |-------- |
-| [![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/96fb11c5-0953-43f3-b869-3646c856ef70)](https://www.wireshark.org/) | [![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/bd67e691-8e66-410c-b715-48a46f30f2dc)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/9520e401-bb4c-485f-8820-43d94de56692)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|[![autonomy-opensource-white-e1694112030907-1536x468](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/1d8f7fca-b22c-4719-ba6b-383b480cabe4)](https://autonomylogic.com/)|
+| [![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/a94164f7-21e5-485c-a3f3-66f3442748e0)](https://www.wireshark.org/) | [![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/72fe0a19-cc1c-4881-bdfe-ae40d4018c5c)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b67fcd8b-3d92-4e58-a433-84a522d856c5)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|[![OpenPLC](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/fd5e39f8-3ec4-4a6a-88db-e9ec7bbcf7d5)](https://autonomylogic.com/)|
 
 ### OS
 | Linux | Ubuntu | Kali | Windows | Unraid | Proxmox |
 | ----- | ------ | -------- | -------- | -------- | -------- |
-| [![linux](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e08f46f5-120a-402d-a4ab-d7022ddc7e60)](https://www.linux.org/) | [![ubuntu](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/3a3382be-6fef-4122-8f90-26f61c25b797)](https://ubuntu.com/) | [![kali](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/eb32b072-7393-48ac-a35e-da520952eb40)](https://www.kali.org/) | [![windows](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/9b62d110-e799-49d0-b0a4-1a0552985bc2)](https://www.microsoft.com/en-us/) | [![images](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/5ef7ae3a-1121-4736-a9ef-d24e351f6797)](https://unraid.net/) | [![proxmox](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/9b6fe5bb-24c8-458f-8497-933a8736cefe)](https://www.proxmox.com/en/) |
+| [![Linux](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/85482d9a-e1e0-424f-9dc2-a7af80aa272a)](https://www.linux.org/) | [![Ubunutu](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e0b06acb-ae5e-4687-9891-b8ac9307be28)](https://ubuntu.com/) | [![kali](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/83f38e81-6909-43f9-9dee-bb018f3c6d94)](https://www.kali.org/) | [![windows](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0c326456-45a2-4321-856e-199a6d51cbdf)](https://www.microsoft.com/en-us/) | [![unraid](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b4875315-f101-47b7-b1b9-517fed0d4f7d)](https://unraid.net/) | [![proxmox](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0b0d1456-52c0-4358-9f1f-684dda6e3396)](https://www.proxmox.com/en/) |
 
 ## Projects
 NIST  
