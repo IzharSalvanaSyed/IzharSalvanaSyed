@@ -38,7 +38,7 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 
 ### Working on
 - Updating this README to be more engaging
-- Creating a HomeLab
+- Creating a HomeLab for test environment
 - Explore using Kali Linux to attack a host within my Homelab
 - Creating a SCADA environment and attacking it
 
