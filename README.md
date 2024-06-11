@@ -1,6 +1,17 @@
 ### Hi there 👋 I am Izhar Syed
 I am a Passionate and proactive cybersecurity professional with CompTIA Security+ certification. Fueled by the commitment to safeguarding digital landscapes, I chose cybersecurity to actively contribute to creating secure solutions. With over three years of project coordination experience, I excel in problem-solving and adaptability. A dedicated communicator, I build partnerships effectively. Actively expanding my cybersecurity skillset and open to new opportunities in the field. Let's connect and discuss how I can contribute to your organization's security goals!
 
+### Working on
+- Updating this README to be more engaging
+- Creating a HomeLab
+- Explore using Kali Linux to attack a host within my Homelab
+- Creating a SCADA environment and attacking it
+
+#### Passion Projects
+- Batocera
+- Home network upgrade
+- Creating Vlans and segregating my home network devices
+
 ### Socials
 [![linkedin](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/2876ea8f-525c-4f8b-b625-c16d501a409e)](https://www.linkedin.com/in/izharsyed) [![Instagram_icon](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/c0ddf731-8980-4862-aa9e-678aca59484d)](https://www.instagram.com/izhart/)
 
