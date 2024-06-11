@@ -2,7 +2,7 @@
 I am a Passionate and proactive cybersecurity professional with CompTIA Security+ certification. Fueled by the commitment to safeguarding digital landscapes, I chose cybersecurity to actively contribute to creating secure solutions. With over three years of project coordination experience, I excel in problem-solving and adaptability. A dedicated communicator, I build partnerships effectively. Actively expanding my cybersecurity skillset and open to new opportunities in the field. Let's connect and discuss how I can contribute to your organization's security goals!
 
 ### Socials
-![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/5b955b06-44d2-4037-a53a-bb378a3aa8b3)
+[![output-onlinepngtools](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/5b955b06-44d2-4037-a53a-bb378a3aa8b3)](www.linkedin.com/in/izharsyed)
 
 ### Certifications
 [![Comptia](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/cddbfc54-2e6d-4638-acf1-089b2fa76dd7)](https://www.credly.com/badges/d48b377b-2e11-44a8-b269-675c23261204/linked_in_profile)
