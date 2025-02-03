@@ -35,6 +35,13 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 | ----- | ------ | -------- | -------- | -------- | -------- |
 | [![Linux](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/85482d9a-e1e0-424f-9dc2-a7af80aa272a)](https://www.linux.org/) | [![Ubunutu](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/e0b06acb-ae5e-4687-9891-b8ac9307be28)](https://ubuntu.com/) | [![kali](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/83f38e81-6909-43f9-9dee-bb018f3c6d94)](https://www.kali.org/) | [![windows](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0c326456-45a2-4321-856e-199a6d51cbdf)](https://www.microsoft.com/en-us/) | [![unraid](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b4875315-f101-47b7-b1b9-517fed0d4f7d)](https://unraid.net/) | [![proxmox](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/0b0d1456-52c0-4358-9f1f-684dda6e3396)](https://www.proxmox.com/en/) |
 
+#### Unraid
+- [Create Windows 11 VM](https://github.com/IzharSalvanaSyed/Unraid-Windows-11-VM)
+
+#### Proxmox
+- [Install Proxmox](https://github.com/IzharSalvanaSyed/Install-Proxmox)
+- [CyberSecurity Lab using Proxmox](https://github.com/IzharSalvanaSyed/Cyber-Security-Homelab)
+- 
 ### Working on
 - Updating this README to be more engaging
 - Creating a HomeLab for test environment
