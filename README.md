@@ -22,12 +22,16 @@ I am a Passionate and proactive cybersecurity professional with CompTIA Security
 | ----- | ------ | -------- |-------- |
 | [![Wireshark](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/a94164f7-21e5-485c-a3f3-66f3442748e0)](https://www.wireshark.org/) | [![NMAP](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/72fe0a19-cc1c-4881-bdfe-ae40d4018c5c)](https://nmap.org/)|[![CLI](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/b67fcd8b-3d92-4e58-a433-84a522d856c5)](https://letmegooglethat.com/?q=Command+Line+Interface+Cheat+Sheet)|[![OpenPLC](https://github.com/IzharSalvanaSyed/IzharSalvanaSyed/assets/156041933/fd5e39f8-3ec4-4a6a-88db-e9ec7bbcf7d5)](https://autonomylogic.com/)|
 
+#### Wireshark/NMAP
 - [Analyze Network Layer Communication](https://github.com/IzharSalvanaSyed/Analyze-Network-Layer-Communication)  
-- [Analyze Network Attacks](https://github.com/IzharSalvanaSyed/Analyze-Network-Attacks)  
+- [Analyze Network Attacks](https://github.com/IzharSalvanaSyed/Analyze-Network-Attacks)
+#### CLI
 - [Get help in the command line](https://github.com/IzharSalvanaSyed/Get-help-in-the-command-line)  
 - [Responsible use of sudo](https://github.com/IzharSalvanaSyed/Responsible-use-of-sudo)  
-- [Use Linux commands to manage file permissions](https://github.com/IzharSalvanaSyed/Use-Linux-commands-to-manage-file-permissions)  
-- [Raspberry Pi OpenPLC with Modbus](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus)  
+- [Use Linux commands to manage file permissions](https://github.com/IzharSalvanaSyed/Use-Linux-commands-to-manage-file-permissions)
+#### OpenPLC/Autonomy 
+- [Raspberry Pi OpenPLC with Modbus](https://github.com/IzharSalvanaSyed/Raspberry-Pi-OpenPLC-with-Modbus)
+- 
 
 
 ### OS
